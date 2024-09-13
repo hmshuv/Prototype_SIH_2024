@@ -1,5 +1,0 @@
-pytorch
-yolo
-open-cv
-matplotlib
-tabulate

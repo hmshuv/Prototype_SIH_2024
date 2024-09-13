@@ -1,0 +1,7 @@
+open-cv
+numpy
+pandas
+matplotlip
+tabulate
+torch 
+os
